@@ -1,0 +1,18 @@
+{
+  "package": "com.tower.quanmin",
+  "name": "quanmin",
+  "icon": "C:\\Users\\pc\\Desktop\\icon.png",
+  "versionName": "1.0.0",
+  "versionCode": "1",
+  "minPlatformVersion": "1030",
+  "deviceOrientation": "landscape",
+  "logLevel": "info",
+  "npmPath": "",
+  "tinyPackageServer": "http://192.168.3.3/towerDefence/",
+  "useDebugKey": false,
+  "privatePath": "D:\\GitHubCode\\TowerDefence\\private.pem",
+  "certificatePath": "D:\\GitHubCode\\TowerDefence\\certificate.pem",
+  "disabledMode": "",
+  "showNpmPath": false,
+  "packFirstScreenRes": false
+}

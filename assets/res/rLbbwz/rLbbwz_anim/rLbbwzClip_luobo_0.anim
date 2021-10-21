@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "rLbbwzClip_luobo_0",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.5,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "f42fbaab-685a-4492-9274-fc7cf2f5bab2"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "18175ffe-92a9-454a-ba37-62c4511d94ef"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "e6fc23a9-3d0e-472e-8aa7-1ff70b5a83a3"
+            }
+          },
+          {
+            "frame": 1.4666666666666666,
+            "value": {
+              "__uuid__": "f42fbaab-685a-4492-9274-fc7cf2f5bab2"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

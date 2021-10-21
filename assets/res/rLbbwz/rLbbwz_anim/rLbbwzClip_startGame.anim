@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "rLbbwzClip_startGame",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.5333333333333334,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "countdown_13": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "0514d159-8c85-4272-90e3-fa29a0530719"
+                }
+              },
+              {
+                "frame": 0.5,
+                "value": {
+                  "__uuid__": "1d3959f4-7a5c-46d2-af46-0b9eb46d89f5"
+                }
+              },
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "bbb911a3-8f28-41a7-aaaf-65c29898202f"
+                }
+              },
+              {
+                "frame": 1.5,
+                "value": {
+                  "__uuid__": "14a2b8f4-f685-4dbf-b6ca-86b9e7ec0a27"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "countdown_11": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 360
+            },
+            {
+              "frame": 1,
+              "value": 720
+            },
+            {
+              "frame": 1.5,
+              "value": 1080
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "onPlayEffect",
+      "params": []
+    },
+    {
+      "frame": 0.5,
+      "func": "onPlayEffect",
+      "params": []
+    },
+    {
+      "frame": 1,
+      "func": "onPlayEffect",
+      "params": []
+    },
+    {
+      "frame": 1.5,
+      "func": "onAnimationEnd",
+      "params": []
+    }
+  ]
+}

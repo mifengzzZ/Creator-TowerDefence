@@ -1,0 +1,22 @@
+{
+  "package": "com.tower.cn",
+  "name": "Tower",
+  "icon": "C:\\Users\\pc\\Desktop\\icon.png",
+  "versionName": "1.0.0",
+  "versionCode": "1",
+  "minPlatformVersion": "1035",
+  "manifestPath": "",
+  "deviceOrientation": "landscape",
+  "fullScreen": true,
+  "logLevel": "info",
+  "runRelease": false,
+  "appType": "fastgame",
+  "tinyPackageServer": "http://192.168.3.3/towerDefence/",
+  "useDebugKey": false,
+  "privatePath": "D:\\GitHubCode\\TowerDefence\\private.pem",
+  "certificatePath": "D:\\GitHubCode\\TowerDefence\\certificate.pem",
+  "disabledMode": "",
+  "npmPath": "",
+  "showNpmPath": false,
+  "packFirstScreenRes": false
+}

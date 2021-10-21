@@ -1,0 +1,32 @@
+{
+  "ver": "1.1.2",
+  "uuid": "610a31ac-e388-42f4-962b-c76c9a7d5b17",
+  "isBundle": true,
+  "bundleName": "",
+  "priority": 1,
+  "compressionType": {
+    "wechatgame": "default",
+    "android": "default",
+    "huawei": "default",
+    "qgame": "default"
+  },
+  "optimizeHotUpdate": {
+    "wechatgame": false,
+    "android": false,
+    "huawei": false,
+    "qgame": false
+  },
+  "inlineSpriteFrames": {
+    "wechatgame": false,
+    "android": false,
+    "huawei": false,
+    "qgame": false
+  },
+  "isRemoteBundle": {
+    "wechatgame": true,
+    "android": true,
+    "huawei": true,
+    "qgame": true
+  },
+  "subMetas": {}
+}

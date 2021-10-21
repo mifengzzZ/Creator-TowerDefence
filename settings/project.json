@@ -1,0 +1,66 @@
+{
+  "collision-matrix": [
+    [
+      false
+    ],
+    [
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      true,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      true,
+      false
+    ]
+  ],
+  "excluded-modules": [
+    "3D",
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle"
+  ],
+  "group-list": [
+    "default",
+    "luobo",
+    "enemy",
+    "buttle"
+  ],
+  "start-scene": "eeb3f783-a6f0-4f7e-a549-4c426cef7f32",
+  "design-resolution-width": 2400,
+  "design-resolution-height": 1120,
+  "fit-width": false,
+  "fit-height": false,
+  "use-project-simulator-setting": false,
+  "simulator-orientation": false,
+  "use-customize-simulator": true,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "last-module-event-record-time": 1608550764215,
+  "assets-sort-type": "name",
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "preview-port": 7456,
+  "migrate-history": [
+    "cloud-function"
+  ],
+  "clear-simulator-cache": true
+}
